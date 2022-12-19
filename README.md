@@ -14,7 +14,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://instagram.com/hikmet.py" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="hikmet.py" height="30" width="40" /></a>
-<a href="https://discord.gg/TeSSla#0246" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="TeSSla#0246" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -25,3 +24,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h1kmeth4sh&show_icons=true&locale=en" alt="h1kmeth4sh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1kmeth4sh&" alt="h1kmeth4sh" /></p>
+
