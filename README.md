@@ -1,5 +1,7 @@
+[![MasterHead](https://theninehertz.com/wp-content/uploads/2020/08/Python-Allows-Multi-tasking.gif)](https://github.com/H1kmetH4SH)
 <h1 align="center">Hi 👋, I'm Hikmət Ramazanov</h1>
 <h3 align="center">A simple Python developer from Azerbaijan🇦🇿</h3>
+<img align="right" width=400 alt="Coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=h1kmeth4sh&label=Profile%20views&color=0e75b6&style=flat" alt="h1kmeth4sh" /> </p>
 
@@ -24,4 +26,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=h1kmeth4sh&show_icons=true&locale=en" alt="h1kmeth4sh" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=h1kmeth4sh&" alt="h1kmeth4sh" /></p>
-
