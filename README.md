@@ -3,7 +3,7 @@
 <h3 align="center">A simple Python developer from Azerbaijan🇦🇿</h3>
 <img align="right" width=400 alt="Coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
-<p align="left"> <img src="https://www.codewars.com/users/H1kmetH4SH/badges/micro" alt="h1kmeth4sh" /> </p>
+<p align="left"> <img src="https://www.codewars.com/users/H1kmetH4SH/badges/large" alt="h1kmeth4sh" /> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
