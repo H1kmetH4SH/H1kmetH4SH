@@ -4,7 +4,7 @@
 <img align="right" width=400 alt="Coding" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
 
 <p align="left"> <img src="https://www.codewars.com/users/H1kmetH4SH/badges/large" alt="h1kmeth4sh" /> </p>
-
+<blockquote class="twitter-tweet"><p lang="en" dir="ltr">living with parents ✅<br>getting money ✅<br>crying often ✅<br>girlfriend ❌</p>&mdash; bbno$ 👶🚫💰 (@bbnomula) <a href="https://twitter.com/bbnomula/status/1610365372611571712?ref_src=twsrc%5Etfw">January 3, 2023</a></blockquote> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 - 🔭 I’m currently working on **Fizika&Riyaziyyat Tkinter**
